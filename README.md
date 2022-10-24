@@ -60,3 +60,5 @@ public sealed class AttributeDrawer : PropertyDrawer
     }
 }
 ```
+
+![icon468](https://user-images.githubusercontent.com/6134875/197517903-a34bb305-518f-4448-bce6-364c2e95c648.gif)
